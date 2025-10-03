@@ -24,3 +24,6 @@ Once you install JDK & download Logisim, open the application and click on the f
  - **MEM UNIT:** The final component with all parts attached. It tasks a flag bin as a WE signal, 4 bins as an address, and 12 bins as data. It gives back 12 bins as output based on the operation "read/write". ![Design](images/MEM_UNIT.png)
 
  - **main:** A page that contains the memory as one block, is used for development and testing purposes. ![Design](images/main.png)
+
+
+ not tested yet in logisim
